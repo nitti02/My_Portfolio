@@ -28,7 +28,7 @@
   $contact->smtp = array(
     'host' => 'nityaguntaka.com',
     'username' => 'nitti02',
-    'password' => 'Buchki02',
+    'password' => 'pass',
     'port' => '587'
   );
   
